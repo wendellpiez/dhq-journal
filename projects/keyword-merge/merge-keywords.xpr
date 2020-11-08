@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="22.1">
+    <meta>
+        <filters directoryPatterns="" filePatterns="\Qmerge-keywords.xpr\E" positiveFilePatterns="" showHiddenFiles="false"/>
+        <options/>
+    </meta>
+    <projectTree name="merge-keywords.xpr">
+        <folder path="../../articles/"/>
+        <folder path="."/>
+    </projectTree>
+</project>
