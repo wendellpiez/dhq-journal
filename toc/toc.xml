@@ -65,8 +65,6 @@
             <!-- AUTHORIAL REVIEW -->
 
 
-            <item id="000463"/>
-            <!-- Guldi, OJS 1088; -->
             <item id="000437"/>
             <!-- Snyder, OJS 861; ready for author review -->
 
@@ -77,13 +75,64 @@
             <item id="000488"/>
             <!-- Kaltman et al, OJS 916, still working on the embedded game encoding; not ready for conversion to DHQ XML yet -->
 
+            <!-- AV in DH SI -->
+            <item id="000504"/>
+            <!-- Gienapp et al, OJS 1036; -->
+            <item id="000505"/>
+            <!-- Bonnett et al, OJS 1049; -->
+            <item id="000506"/>
+            <!-- Broadwell et al, OJS 1054; -->
+            <item id="000507"/>
+            <!-- Burges et al, OJS 1055; -->
+            <item id="000508"/>
+            <!--  Kramer, OJS 1048; -->
+            <item id="000509"/>
+            <!-- Sapienza et al, OJS 1045; -->
+
+            <item id="000510"/>
+            <!-- Fragkiadakis et al, OJS 1029; -->
+            <item id="000511"/>
+            <!-- Oyallon-Koloski et al, OJS 1028 -->
+
+            <item id="000512"/>
+            <!--  Clement et al, OJS 1034; -->
+            <item id="000513"/>
+            <!--  Martin, OJS 1040; -->
+            <item id="000514"/>
+            <!--  Kim et al., OJS 1032; -->
+            
+            <item id="000515"/>
+            <!--  Cooper, OJS 1041; -->
+            <item id="000516"/>
+            <!--  Thompson et al., OJS 1044; -->
+            <item id="000517"/>
+            <!--  Kestemont et al., OJS 1047; -->
+            <item id="000519"/>
+            <!-- Hoyt et al., OJS 1030;-->
+            <item id="000520"/>
+            <!-- Lupker et al., OJS 1033; -->
+            <item id="000521"/>
+            <!-- Mittell, OJS 1035; -->
+            <item id="000522"/>
+            <!-- Have, OJS 1037; -->
+            <item id="000523"/>
+            <!-- Carrive et al, OJS 1039;  -->
+            <item id="000524"/>
+            <!-- Williams and Bell, OJS 1061; -->
+            <item id="000527"/>
+            <!-- OJS 1031 -->
+
+
+
+            <!-- OJS 1032 -->
+
 
             <!-- Colonial LAS  SI -->
 
             <item id="000482"/>
             <!-- Slayton, OJS 919 -->
             <item id="000502"/>
-            <!-- Salomon, OJS 912 -->
+            <!-- Salomon, OJS 912; ready for author review; ask authors about image 4 heading -->
             <item id="000490"/>
             <!-- Murrieta et al., OJS 944; ready for author review; ask authors for placement of figures -->
             <item id="000491"/>
@@ -106,14 +155,23 @@
             <item id="000499"/>
             <!-- Byszuk, ; ready for author review-->
             <item id="000498"/>
-            <!-- Hołobut and Rybicki, ; encoding -->
+            <!-- Hołobut and Rybicki, ; ready for author review -->
             <item id="000497"/>
             <!-- Masson et al., ; ready for author review -->
             <item id="000496"/>
             <!-- Bakels et al., ; ready for author review -->
             <item id="000495"/>
             <!-- Hielscher, ; ready for author review -->
+            <item id="000518"/>
+            <!-- Ewerth, ; encoding -->
 
+            <!-- Gottingen Dialogues SI -->
+            <!--  <item id="000525"/>
+             Pichler; OJS 1178; ready for authorial review -->
+            
+            <!-- <item id="000526"
+            Englmeier et al.; OJS 981; ready for authorial review
+            -->
 
          </list>
 
@@ -149,6 +207,7 @@
 
             <item id="999888"/>
             <!-- MathJax test. -->
+
 
             <item id="999889"/>
             <!-- test field report -->
